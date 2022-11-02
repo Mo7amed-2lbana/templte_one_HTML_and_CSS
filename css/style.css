@@ -489,6 +489,13 @@ header .skills .parent div p{
     width: 500px;
     text-align: center;
 }
+@media(max-width:767px){
+.contact .info {
+    max-width: 100%;
+    }
+}
+
+
 .contact .info p{
     padding: 20px 10px 0;
 }
