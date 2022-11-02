@@ -506,9 +506,8 @@ header .skills .parent div p{
     font-size: 35px;
 }
 @media(max-width:767px){
-    .contact .info p{
-        margin: 10px 0 30px;
-        padding: 0;
+    .contact .info p:first-child{
+        font-size:22px
     }
     .contact .info p:first-child{
         font-size: 30px;
